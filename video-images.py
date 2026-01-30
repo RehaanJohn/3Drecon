@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 # ================= CONFIG =================
-VIDEO_PATH = r"D:\jeswin\git\image_convertion\method2\video\input.mp4"
+VIDEO_PATH = "/workspaces/3Drecon/mickey.mp4"
 OUTPUT_FOLDER = "Images"
 
 MIN_IMAGES = 80
